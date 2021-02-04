@@ -1,5 +1,5 @@
-import sys
 import random
+import sys
 
 normal = ' '.join(sys.argv[1:])
 stupid = ''
